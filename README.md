@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Sowmiya 👋
 
-<!--
-**Sowmiya-Ashokkumar/Sowmiya-Ashokkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc Embedded Systems Student at TU Chemnitz  
+🔧 Embedded Systems | ESP32 | IoT | Robotics | Real-Time Systems  
+🐍 Python | Machine Learning | Sensor Fusion | Automation  
+🌍 Currently based in Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Embedded C/C++
+- ESP32 & ARM Microcontrollers
+- Real-Time Systems
+- Sensor Fusion
+- PID Control
+- Python & Machine Learning
+- MATLAB & Simulink
+- IoT Systems
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+### 🚀 ESP32 Autonomous Navigation Robot
+Real-time autonomous robot using:
+- ESP32
+- IMU sensor fusion
+- PID control
+- FSM navigation logic
+- Wokwi simulation
+
+🔗 Project Repository:
+(Add your repo link here)
+
+---
+
+## Currently Learning
+
+- FreeRTOS
+- Embedded Linux
+- Automotive Embedded Systems
+- Advanced Robotics
+
+---
+
+## Contact
+
+📧 sowmiyaa2402@gmail.com  
+🔗 LinkedIn: linkedin.com/in/sowmiya-a-02a215251
