@@ -34,6 +34,25 @@ Real-time autonomous robot using:
 🔗 Project Repository:
 (Add your repo link here)
 
+
+### 🌊 Smart River Cleaning Boat
+IoT-enabled autonomous river cleaning system designed for waste collection and environmental monitoring.
+
+Key Features:
+- Embedded control system
+- Sensor-based obstacle detection
+- Autonomous navigation
+- Waste collection mechanism
+- IoT integration
+
+Technologies:
+- ESP32 / Arduino
+- Embedded C++
+- Sensor Integration
+- Automation Logic
+
+🔗 Project Repository:
+(Add your repository link here)
 ---
 
 ## Currently Learning
