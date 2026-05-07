@@ -31,8 +31,7 @@ Real-time autonomous robot using:
 - FSM navigation logic
 - Wokwi simulation
 
-🔗 Project Repository:
-(Add your repo link here)
+🔗 Project Repository:https://github.com/Sowmiya-Ashokkumar/ESP32-Obstacle-Avoiding-Robot
 
 
 ### 🌊 Smart River Cleaning Boat
@@ -51,8 +50,8 @@ Technologies:
 - Sensor Integration
 - Automation Logic
 
-🔗 Project Repository:
-(Add your repository link here)
+🔗 Project Repository:https://github.com/Sowmiya-Ashokkumar/Smart-River-Cleaning-Boat
+
 ---
 
 ## Currently Learning
